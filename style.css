@@ -1,0 +1,44 @@
+/* Header Title */
+.header {
+  padding: 30px;
+  text-align: center;
+  color: #DAF7A6;
+  background: #C2A2C2;
+  font-family: Lucida Calligraphy;
+  background-image: url("header_background.jpg");
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #233;
+  font-family: forte;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #fffddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4dCAF50;
+  color: red;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
