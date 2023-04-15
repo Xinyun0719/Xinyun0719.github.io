@@ -59,3 +59,16 @@
 img {
   margin-right: 20px;
 }
+
+.chocolate-link {
+  position: relative;
+}
+
+.chocolate-img {
+  transition: transform 0.3s ease;
+}
+
+.chocolate-link:hover .chocolate-img {
+  transform: scale(1.1);
+}
+
